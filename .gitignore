@@ -1,0 +1,10 @@
+mbed_settings.py
+mbed_settings.pyc
+BUILD/
+.hg/
+
+mbed/
+.temp/
+.mbed
+projectfiles
+*.py*
